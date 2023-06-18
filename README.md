@@ -1,3 +1,5 @@
+![Header Image](https://github.com/dzaczek/cloudflate_ddns/blob/main/header.png?raw=true)
+
 # Bash script for updating Cloudflare DNS records
 
 This script is used to update DNS records on Cloudflare. It gets the current public IP of the server where it's running and updates the DNS records of the specified domains on Cloudflare.
