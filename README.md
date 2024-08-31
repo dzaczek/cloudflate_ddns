@@ -3,7 +3,7 @@
 # Bash script for updating Cloudflare DNS records
 
 This script is used to update DNS records on Cloudflare. It gets the current public IP of the server where it's running and updates the DNS records of the specified domains on Cloudflare.
-
+(The best options when you provider not giving you static ip it works like dyndns for cloudflare)
 ## Prerequisites
 
 The script requires the following tools to be installed on your system:
